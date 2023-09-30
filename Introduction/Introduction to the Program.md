@@ -1,7 +1,10 @@
 # Morehead Cain Digital Portfolio: Chess Program
 
 This is a chess program that I completed at the beginning of my junior year for my Scientific Computing Course. 
-This Github link contains the actual game--which runs on Python--as well as a video of a quick walkthrough of the program.
+This Github Repository contains the actual game--which runs on Python--as well as a video of a quick walkthrough of the program.
+
+This is a google drive link to the walkthrough video in case it cannot be downloaded:
+https://drive.google.com/file/d/13MdjSdEIwTHHnWTwWW3SeCsppBThKnyX/view?usp=sharing
 
 To move a piece, you must first click on the piece you want to move, and then click the location that you want to move it to.
 If the location you click is not a possible move, nothing will happen, and you will have to repeat the process outlined above.
