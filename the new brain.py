@@ -1,4 +1,4 @@
-#Actual chess brain things
+#Chess Brain
 import pygame
 import chess
 # starts up the pygame library
